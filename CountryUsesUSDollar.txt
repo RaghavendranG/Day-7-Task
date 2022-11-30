@@ -1,0 +1,24 @@
+//Print the country which uses US Dollars as currency.
+Output :
+[
+    "Ecuador",
+    "British Indian Ocean Territory",
+    "Puerto Rico",
+    "Timor-Leste",
+    "Cambodia",
+    "United States Virgin Islands",
+    "Micronesia",
+    "American Samoa",
+    "Marshall Islands",
+    "Bahamas",
+    "Northern Mariana Islands",
+    "Guam",
+    "El Salvador",
+    "Panama",
+    "United States",
+    "Palau",
+    "Turks and Caicos Islands",
+    "British Virgin Islands",
+    "United States Minor Outlying Islands",
+    "Caribbean Netherlands"
+]

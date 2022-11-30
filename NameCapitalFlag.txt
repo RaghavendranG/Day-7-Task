@@ -1,0 +1,502 @@
+//Print the following details name, capital, flag using forEach function
+Output :
+Name : Mauritania, 
+Capital : Nouakchott, flag : https://flagcdn.com/w0/mr.png
+ Name : Aruba, 
+Capital : Oranjestad, flag : https://flagcdn.com/w0/aw.png
+ Name : Argentina, 
+Capital : Buenos Aires, flag : https://flagcdn.com/w0/ar.png
+ Name : Sweden, 
+Capital : Stockholm, flag : https://flagcdn.com/w0/se.png
+ Name : Maldives, 
+Capital : Malé, flag : https://flagcdn.com/w0/mv.png
+ Name : Mexico, 
+Capital : Mexico City, flag : https://flagcdn.com/w0/mx.png
+ Name : New Zealand, 
+Capital : Wellington, flag : https://flagcdn.com/w0/nz.png
+ Name : Ecuador, 
+Capital : Quito, flag : https://flagcdn.com/w0/ec.png
+ Name : Wallis and Futuna, 
+Capital : Mata-Utu, flag : https://flagcdn.com/w0/wf.png
+ Name : Åland Islands, 
+Capital : Mariehamn, flag : https://flagcdn.com/w0/ax.png
+ Name : Montenegro, 
+Capital : Podgorica, flag : https://flagcdn.com/w0/me.png
+ Name : Pakistan, 
+Capital : Islamabad, flag : https://flagcdn.com/w0/pk.png
+ Name : Pitcairn Islands, 
+Capital : Adamstown, flag : https://flagcdn.com/w0/pn.png
+ Name : Zambia, 
+Capital : Lusaka, flag : https://flagcdn.com/w0/zm.png
+ Name : Seychelles, 
+Capital : Victoria, flag : https://flagcdn.com/w0/sc.png
+ Name : Malaysia, 
+Capital : Kuala Lumpur, flag : https://flagcdn.com/w0/my.png
+ Name : Norway, 
+Capital : Oslo, flag : https://flagcdn.com/w0/no.png
+ Name : Uzbekistan, 
+Capital : Tashkent, flag : https://flagcdn.com/w0/uz.png
+ Name : Vanuatu, 
+Capital : Port Vila, flag : https://flagcdn.com/w0/vu.png
+ Name : French Southern and Antarctic Lands, 
+Capital : Port-aux-Français, flag : https://flagcdn.com/w0/tf.png
+ Name : Christmas Island, 
+Capital : Flying Fish Cove, flag : https://flagcdn.com/w0/cx.png
+ Name : Singapore, 
+Capital : Singapore, flag : https://flagcdn.com/w0/sg.png
+ Name : Suriname, 
+Capital : Paramaribo, flag : https://flagcdn.com/w0/sr.png
+ Name : Western Sahara, 
+Capital : El Aaiún, flag : https://flagcdn.com/w0/eh.png
+ Name : Saint Martin, 
+Capital : Marigot, flag : https://flagcdn.com/w0/mf.png
+ Name : Costa Rica, 
+Capital : San José, flag : https://flagcdn.com/w0/cr.png
+ Name : Heard Island and McDonald Islands, 
+Capital : undefined, flag : https://flagcdn.com/w0/hm.png
+ Name : Ireland, 
+Capital : Dublin, flag : https://flagcdn.com/w0/ie.png
+ Name : Antarctica, 
+Capital : undefined, flag : https://flagcdn.com/w0/aq.png
+ Name : Australia, 
+Capital : Canberra, flag : https://flagcdn.com/w0/au.png
+ Name : Libya, 
+Capital : Tripoli, flag : https://flagcdn.com/w0/ly.png
+ Name : Qatar, 
+Capital : Doha, flag : https://flagcdn.com/w0/qa.png
+ Name : Greenland, 
+Capital : Nuuk, flag : https://flagcdn.com/w0/gl.png
+ Name : Mauritius, 
+Capital : Port Louis, flag : https://flagcdn.com/w0/mu.png
+ Name : Kazakhstan, 
+Capital : Nur-Sultan, flag : https://flagcdn.com/w0/kz.png
+ Name : British Indian Ocean Territory, 
+Capital : Diego Garcia, flag : https://flagcdn.com/w0/io.png
+ Name : Albania, 
+Capital : Tirana, flag : https://flagcdn.com/w0/al.png
+ Name : Bahrain, 
+Capital : Manama, flag : https://flagcdn.com/w0/bh.png
+ Name : Papua New Guinea, 
+Capital : Port Moresby, flag : https://flagcdn.com/w0/pg.png
+ Name : Burundi, 
+Capital : Gitega, flag : https://flagcdn.com/w0/bi.png
+ Name : India, 
+Capital : New Delhi, flag : https://flagcdn.com/w0/in.png
+ Name : Uruguay, 
+Capital : Montevideo, flag : https://flagcdn.com/w0/uy.png
+ Name : Saint Lucia, 
+Capital : Castries, flag : https://flagcdn.com/w0/lc.png
+ Name : Barbados, 
+Capital : Bridgetown, flag : https://flagcdn.com/w0/bb.png
+ Name : New Caledonia, 
+Capital : Nouméa, flag : https://flagcdn.com/w0/nc.png
+ Name : Latvia, 
+Capital : Riga, flag : https://flagcdn.com/w0/lv.png
+ Name : Estonia, 
+Capital : Tallinn, flag : https://flagcdn.com/w0/ee.png
+ Name : Niue, 
+Capital : Alofi, flag : https://flagcdn.com/w0/nu.png
+ Name : Saint Barthélemy, 
+Capital : Gustavia, flag : https://flagcdn.com/w0/bl.png
+ Name : Puerto Rico, 
+Capital : San Juan, flag : https://flagcdn.com/w0/pr.png
+ Name : Grenada, 
+Capital : St. George's, flag : https://flagcdn.com/w0/gd.png
+ Name : Macau, 
+Capital : undefined, flag : https://flagcdn.com/w0/mo.png
+ Name : Cyprus, 
+Capital : Nicosia, flag : https://flagcdn.com/w0/cy.png
+ Name : Isle of Man, 
+Capital : Douglas, flag : https://flagcdn.com/w0/im.png
+ Name : Greece, 
+Capital : Athens, flag : https://flagcdn.com/w0/gr.png
+ Name : Syria, 
+Capital : Damascus, flag : https://flagcdn.com/w0/sy.png
+ Name : Lithuania, 
+Capital : Vilnius, flag : https://flagcdn.com/w0/lt.png
+ Name : Curaçao, 
+Capital : Willemstad, flag : https://flagcdn.com/w0/cw.png
+ Name : Dominica, 
+Capital : Roseau, flag : https://flagcdn.com/w0/dm.png
+ Name : Niger, 
+Capital : Niamey, flag : https://flagcdn.com/w0/ne.png
+ Name : Kyrgyzstan, 
+Capital : Bishkek, flag : https://flagcdn.com/w0/kg.png
+ Name : Trinidad and Tobago, 
+Capital : Port of Spain, flag : https://flagcdn.com/w0/tt.png
+ Name : Togo, 
+Capital : Lomé, flag : https://flagcdn.com/w0/tg.png
+ Name : Palestine, 
+Capital : Ramallah,Jerusalem, flag : https://flagcdn.com/w0/ps.png
+ Name : Madagascar, 
+Capital : Antananarivo, flag : https://flagcdn.com/w0/mg.png
+ Name : Croatia, 
+Capital : Zagreb, flag : https://flagcdn.com/w0/hr.png
+ Name : Faroe Islands, 
+Capital : Tórshavn, flag : https://flagcdn.com/w0/fo.png
+ Name : Haiti, 
+Capital : Port-au-Prince, flag : https://flagcdn.com/w0/ht.png
+ Name : Montserrat, 
+Capital : Plymouth, flag : https://flagcdn.com/w0/ms.png
+ Name : Cook Islands, 
+Capital : Avarua, flag : https://flagcdn.com/w0/ck.png
+ Name : Timor-Leste, 
+Capital : Dili, flag : https://flagcdn.com/w0/tl.png
+ Name : Martinique, 
+Capital : Fort-de-France, flag : https://flagcdn.com/w0/mq.png
+ Name : Cuba, 
+Capital : Havana, flag : https://flagcdn.com/w0/cu.png
+ Name : Taiwan, 
+Capital : Taipei, flag : https://flagcdn.com/w0/tw.png
+ Name : Eswatini, 
+Capital : Mbabane, flag : https://flagcdn.com/w0/sz.png
+ Name : Ukraine, 
+Capital : Kyiv, flag : https://flagcdn.com/w0/ua.png
+ Name : Bermuda, 
+Capital : Hamilton, flag : https://flagcdn.com/w0/bm.png
+ Name : South Korea, 
+Capital : Seoul, flag : https://flagcdn.com/w0/kr.png
+ Name : Peru, 
+Capital : Lima, flag : https://flagcdn.com/w0/pe.png
+ Name : Iraq, 
+Capital : Baghdad, flag : https://flagcdn.com/w0/iq.png
+ Name : Moldova, 
+Capital : Chișinău, flag : https://flagcdn.com/w0/md.png
+ Name : San Marino, 
+Capital : City of San Marino, flag : https://flagcdn.com/w0/sm.png
+ Name : Venezuela, 
+Capital : Caracas, flag : https://flagcdn.com/w0/ve.png
+ Name : Guyana, 
+Capital : Georgetown, flag : https://flagcdn.com/w0/gy.png
+ Name : Cayman Islands, 
+Capital : George Town, flag : https://flagcdn.com/w0/ky.png
+ Name : Cambodia, 
+Capital : Phnom Penh, flag : https://flagcdn.com/w0/kh.png
+ Name : Cocos (Keeling) Islands, 
+Capital : West Island, flag : https://flagcdn.com/w0/cc.png
+ Name : Malta, 
+Capital : Valletta, flag : https://flagcdn.com/w0/mt.png
+ Name : Sri Lanka, 
+Capital : Sri Jayawardenepura Kotte, flag : https://flagcdn.com/w0/lk.png
+ Name : Israel, 
+Capital : Jerusalem, flag : https://flagcdn.com/w0/il.png
+ Name : Sudan, 
+Capital : Khartoum, flag : https://flagcdn.com/w0/sd.png
+ Name : United States Virgin Islands, 
+Capital : Charlotte Amalie, flag : https://flagcdn.com/w0/vi.png
+ Name : Eritrea, 
+Capital : Asmara, flag : https://flagcdn.com/w0/er.png
+ Name : Mali, 
+Capital : Bamako, flag : https://flagcdn.com/w0/ml.png
+ Name : Somalia, 
+Capital : Mogadishu, flag : https://flagcdn.com/w0/so.png
+ Name : Norfolk Island, 
+Capital : Kingston, flag : https://flagcdn.com/w0/nf.png
+ Name : Comoros, 
+Capital : Moroni, flag : https://flagcdn.com/w0/km.png
+ Name : Nicaragua, 
+Capital : Managua, flag : https://flagcdn.com/w0/ni.png
+ Name : Russia, 
+Capital : Moscow, flag : https://flagcdn.com/w0/ru.png
+ Name : Uganda, 
+Capital : Kampala, flag : https://flagcdn.com/w0/ug.png
+ Name : Nauru, 
+Capital : Yaren, flag : https://flagcdn.com/w0/nr.png
+ Name : Switzerland, 
+Capital : Bern, flag : https://flagcdn.com/w0/ch.png
+ Name : Portugal, 
+Capital : Lisbon, flag : https://flagcdn.com/w0/pt.png
+ Name : Tajikistan, 
+Capital : Dushanbe, flag : https://flagcdn.com/w0/tj.png
+ Name : South Sudan, 
+Capital : Juba, flag : https://flagcdn.com/w0/ss.png
+ Name : Bouvet Island, 
+Capital : undefined, flag : https://flagcdn.com/w0/bv.png
+ Name : Micronesia, 
+Capital : Palikir, flag : https://flagcdn.com/w0/fm.png
+ Name : American Samoa, 
+Capital : Pago Pago, flag : https://flagcdn.com/w0/as.png
+ Name : Czechia, 
+Capital : Prague, flag : https://flagcdn.com/w0/cz.png
+ Name : Botswana, 
+Capital : Gaborone, flag : https://flagcdn.com/w0/bw.png
+ Name : Tunisia, 
+Capital : Tunis, flag : https://flagcdn.com/w0/tn.png
+ Name : Anguilla, 
+Capital : The Valley, flag : https://flagcdn.com/w0/ai.png
+ Name : Guinea-Bissau, 
+Capital : Bissau, flag : https://flagcdn.com/w0/gw.png
+ Name : Slovakia, 
+Capital : Bratislava, flag : https://flagcdn.com/w0/sk.png
+ Name : Marshall Islands, 
+Capital : Majuro, flag : https://flagcdn.com/w0/mh.png
+ Name : Algeria, 
+Capital : Algiers, flag : https://flagcdn.com/w0/dz.png
+ Name : Jamaica, 
+Capital : Kingston, flag : https://flagcdn.com/w0/jm.png
+ Name : Mozambique, 
+Capital : Maputo, flag : https://flagcdn.com/w0/mz.png
+ Name : Spain, 
+Capital : Madrid, flag : https://flagcdn.com/w0/es.png
+ Name : Honduras, 
+Capital : Tegucigalpa, flag : https://flagcdn.com/w0/hn.png
+ Name : Netherlands, 
+Capital : Amsterdam, flag : https://flagcdn.com/w0/nl.png
+ Name : South Africa, 
+Capital : Pretoria,Bloemfontein,Cape Town, flag : https://flagcdn.com/w0/za.png
+ Name : Azerbaijan, 
+Capital : Baku, flag : https://flagcdn.com/w0/az.png
+ Name : North Macedonia, 
+Capital : Skopje, flag : https://flagcdn.com/w0/mk.png
+ Name : Gambia, 
+Capital : Banjul, flag : https://flagcdn.com/w0/gm.png
+ Name : Liberia, 
+Capital : Monrovia, flag : https://flagcdn.com/w0/lr.png
+ Name : Luxembourg, 
+Capital : Luxembourg, flag : https://flagcdn.com/w0/lu.png
+ Name : Cape Verde, 
+Capital : Praia, flag : https://flagcdn.com/w0/cv.png
+ Name : Bahamas, 
+Capital : Nassau, flag : https://flagcdn.com/w0/bs.png
+ Name : Georgia, 
+Capital : Tbilisi, flag : https://flagcdn.com/w0/ge.png
+ Name : Kiribati, 
+Capital : South Tarawa, flag : https://flagcdn.com/w0/ki.png
+ Name : Tanzania, 
+Capital : Dodoma, flag : https://flagcdn.com/w0/tz.png
+ Name : China, 
+Capital : Beijing, flag : https://flagcdn.com/w0/cn.png
+ Name : Guatemala, 
+Capital : Guatemala City, flag : https://flagcdn.com/w0/gt.png
+ Name : São Tomé and Príncipe, 
+Capital : São Tomé, flag : https://flagcdn.com/w0/st.png
+ Name : Germany, 
+Capital : Berlin, flag : https://flagcdn.com/w0/de.png
+ Name : Sierra Leone, 
+Capital : Freetown, flag : https://flagcdn.com/w0/sl.png
+ Name : Chad, 
+Capital : N'Djamena, flag : https://flagcdn.com/w0/td.png
+ Name : United Kingdom, 
+Capital : London, flag : https://flagcdn.com/w0/gb.png
+ Name : Slovenia, 
+Capital : Ljubljana, flag : https://flagcdn.com/w0/si.png
+ Name : Thailand, 
+Capital : Bangkok, flag : https://flagcdn.com/w0/th.png
+ Name : Indonesia, 
+Capital : Jakarta, flag : https://flagcdn.com/w0/id.png
+ Name : Northern Mariana Islands, 
+Capital : Saipan, flag : https://flagcdn.com/w0/mp.png
+ Name : Guam, 
+Capital : Hagåtña, flag : https://flagcdn.com/w0/gu.png
+ Name : Finland, 
+Capital : Helsinki, flag : https://flagcdn.com/w0/fi.png
+ Name : Mayotte, 
+Capital : Mamoudzou, flag : https://flagcdn.com/w0/yt.png
+ Name : Gibraltar, 
+Capital : Gibraltar, flag : https://flagcdn.com/w0/gi.png
+ Name : Turkmenistan, 
+Capital : Ashgabat, flag : https://flagcdn.com/w0/tm.png
+ Name : Kosovo, 
+Capital : Pristina, flag : https://flagcdn.com/w0/xk.png
+ Name : Ivory Coast, 
+Capital : Yamoussoukro, flag : https://flagcdn.com/w0/ci.png
+ Name : Morocco, 
+Capital : Rabat, flag : https://flagcdn.com/w0/ma.png
+ Name : Dominican Republic, 
+Capital : Santo Domingo, flag : https://flagcdn.com/w0/do.png
+ Name : Ghana, 
+Capital : Accra, flag : https://flagcdn.com/w0/gh.png
+ Name : Vatican City, 
+Capital : Vatican City, flag : https://flagcdn.com/w0/va.png
+ Name : Jersey, 
+Capital : Saint Helier, flag : https://flagcdn.com/w0/je.png
+ Name : Turkey, 
+Capital : Ankara, flag : https://flagcdn.com/w0/tr.png
+ Name : Tuvalu, 
+Capital : Funafuti, flag : https://flagcdn.com/w0/tv.png
+ Name : Iran, 
+Capital : Tehran, flag : https://flagcdn.com/w0/ir.png
+ Name : Egypt, 
+Capital : Cairo, flag : https://flagcdn.com/w0/eg.png
+ Name : Denmark, 
+Capital : Copenhagen, flag : https://flagcdn.com/w0/dk.png
+ Name : Kenya, 
+Capital : Nairobi, flag : https://flagcdn.com/w0/ke.png
+ Name : Bulgaria, 
+Capital : Sofia, flag : https://flagcdn.com/w0/bg.png
+ Name : Zimbabwe, 
+Capital : Harare, flag : https://flagcdn.com/w0/zw.png
+ Name : Angola, 
+Capital : Luanda, flag : https://flagcdn.com/w0/ao.png
+ Name : Nigeria, 
+Capital : Abuja, flag : https://flagcdn.com/w0/ng.png
+ Name : Poland, 
+Capital : Warsaw, flag : https://flagcdn.com/w0/pl.png
+ Name : Senegal, 
+Capital : Dakar, flag : https://flagcdn.com/w0/sn.png
+ Name : Saint Helena, Ascension and Tristan da Cunha, 
+Capital : Jamestown, flag : https://flagcdn.com/w0/sh.png
+ Name : Lebanon, 
+Capital : Beirut, flag : https://flagcdn.com/w0/lb.png
+ Name : Samoa, 
+Capital : Apia, flag : https://flagcdn.com/w0/ws.png
+ Name : Philippines, 
+Capital : Manila, flag : https://flagcdn.com/w0/ph.png
+ Name : Guernsey, 
+Capital : St. Peter Port, flag : https://flagcdn.com/w0/gg.png
+ Name : El Salvador, 
+Capital : San Salvador, flag : https://flagcdn.com/w0/sv.png
+ Name : Kuwait, 
+Capital : Kuwait City, flag : https://flagcdn.com/w0/kw.png
+ Name : Tonga, 
+Capital : Nuku'alofa, flag : https://flagcdn.com/w0/to.png
+ Name : Oman, 
+Capital : Muscat, flag : https://flagcdn.com/w0/om.png
+ Name : Afghanistan, 
+Capital : Kabul, flag : https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_the_Taliban.svg/0px-Flag_of_the_Taliban.svg.png
+ Name : Saint Kitts and Nevis, 
+Capital : Basseterre, flag : https://flagcdn.com/w0/kn.png
+ Name : Central African Republic, 
+Capital : Bangui, flag : https://flagcdn.com/w0/cf.png
+ Name : Serbia, 
+Capital : Belgrade, flag : https://flagcdn.com/w0/rs.png
+ Name : Armenia, 
+Capital : Yerevan, flag : https://flagcdn.com/w0/am.png
+ Name : Bangladesh, 
+Capital : Dhaka, flag : https://flagcdn.com/w0/bd.png
+ Name : Laos, 
+Capital : Vientiane, flag : https://flagcdn.com/w0/la.png
+ Name : Chile, 
+Capital : Santiago, flag : https://flagcdn.com/w0/cl.png
+ Name : French Polynesia, 
+Capital : Papeetē, flag : https://flagcdn.com/w0/pf.png
+ Name : Panama, 
+Capital : Panama City, flag : https://flagcdn.com/w0/pa.png
+ Name : United States, 
+Capital : Washington, D.C., flag : https://flagcdn.com/w0/us.png
+ Name : Nepal, 
+Capital : Kathmandu, flag : https://flagcdn.com/w0/np.png
+ Name : Myanmar, 
+Capital : Naypyidaw, flag : https://flagcdn.com/w0/mm.png
+ Name : Falkland Islands, 
+Capital : Stanley, flag : https://flagcdn.com/w0/fk.png
+ Name : Hungary, 
+Capital : Budapest, flag : https://flagcdn.com/w0/hu.png
+ Name : Palau, 
+Capital : Ngerulmud, flag : https://flagcdn.com/w0/pw.png
+ Name : Equatorial Guinea, 
+Capital : Malabo, flag : https://flagcdn.com/w0/gq.png
+ Name : Guinea, 
+Capital : Conakry, flag : https://flagcdn.com/w0/gn.png
+ Name : United Arab Emirates, 
+Capital : Abu Dhabi, flag : https://flagcdn.com/w0/ae.png
+ Name : Turks and Caicos Islands, 
+Capital : Cockburn Town, flag : https://flagcdn.com/w0/tc.png
+ Name : British Virgin Islands, 
+Capital : Road Town, flag : https://flagcdn.com/w0/vg.png
+ Name : Liechtenstein, 
+Capital : Vaduz, flag : https://flagcdn.com/w0/li.png
+ Name : Bosnia and Herzegovina, 
+Capital : Sarajevo, flag : https://flagcdn.com/w0/ba.png
+ Name : Malawi, 
+Capital : Lilongwe, flag : https://flagcdn.com/w0/mw.png
+ Name : Bhutan, 
+Capital : Thimphu, flag : https://flagcdn.com/w0/bt.png
+ Name : Cameroon, 
+Capital : Yaoundé, flag : https://flagcdn.com/w0/cm.png
+ Name : Andorra, 
+Capital : Andorra la Vella, flag : https://flagcdn.com/w0/ad.png
+ Name : Guadeloupe, 
+Capital : Basse-Terre, flag : https://flagcdn.com/w0/gp.png
+ Name : Republic of the Congo, 
+Capital : Brazzaville, flag : https://flagcdn.com/w0/cg.png
+ Name : Réunion, 
+Capital : Saint-Denis, flag : https://flagcdn.com/w0/re.png
+ Name : Burkina Faso, 
+Capital : Ouagadougou, flag : https://flagcdn.com/w0/bf.png
+ Name : Jordan, 
+Capital : Amman, flag : https://flagcdn.com/w0/jo.png
+ Name : DR Congo, 
+Capital : Kinshasa, flag : https://flagcdn.com/w0/cd.png
+ Name : Tokelau, 
+Capital : Fakaofo, flag : https://flagcdn.com/w0/tk.png
+ Name : Vietnam, 
+Capital : Hanoi, flag : https://flagcdn.com/w0/vn.png
+ Name : Sint Maarten, 
+Capital : Philipsburg, flag : https://flagcdn.com/w0/sx.png
+ Name : Belgium, 
+Capital : Brussels, flag : https://flagcdn.com/w0/be.png
+ Name : United States Minor Outlying Islands, 
+Capital : Washington DC, flag : https://flagcdn.com/w0/um.png
+ Name : Brazil, 
+Capital : Brasília, flag : https://flagcdn.com/w0/br.png
+ Name : Belize, 
+Capital : Belmopan, flag : https://flagcdn.com/w0/bz.png
+ Name : Antigua and Barbuda, 
+Capital : Saint John's, flag : https://flagcdn.com/w0/ag.png
+ Name : Paraguay, 
+Capital : Asunción, flag : https://flagcdn.com/w0/py.png
+ Name : Benin, 
+Capital : Porto-Novo, flag : https://flagcdn.com/w0/bj.png
+ Name : Brunei, 
+Capital : Bandar Seri Begawan, flag : https://flagcdn.com/w0/bn.png
+ Name : Bolivia, 
+Capital : Sucre, flag : https://flagcdn.com/w0/bo.png
+ Name : Djibouti, 
+Capital : Djibouti, flag : https://flagcdn.com/w0/dj.png
+ Name : French Guiana, 
+Capital : Cayenne, flag : https://flagcdn.com/w0/gf.png
+ Name : Canada, 
+Capital : Ottawa, flag : https://flagcdn.com/w0/ca.png
+ Name : Saint Pierre and Miquelon, 
+Capital : Saint-Pierre, flag : https://flagcdn.com/w0/pm.png
+ Name : Japan, 
+Capital : Tokyo, flag : https://flagcdn.com/w0/jp.png
+ Name : Rwanda, 
+Capital : Kigali, flag : https://flagcdn.com/w0/rw.png
+ Name : Saint Vincent and the Grenadines, 
+Capital : Kingstown, flag : https://flagcdn.com/w0/vc.png
+ Name : Iceland, 
+Capital : Reykjavik, flag : https://flagcdn.com/w0/is.png
+ Name : Belarus, 
+Capital : Minsk, flag : https://flagcdn.com/w0/by.png
+ Name : Hong Kong, 
+Capital : City of Victoria, flag : https://flagcdn.com/w0/hk.png
+ Name : Lesotho, 
+Capital : Maseru, flag : https://flagcdn.com/w0/ls.png
+ Name : Fiji, 
+Capital : Suva, flag : https://flagcdn.com/w0/fj.png
+ Name : Austria, 
+Capital : Vienna, flag : https://flagcdn.com/w0/at.png
+ Name : Colombia, 
+Capital : Bogotá, flag : https://flagcdn.com/w0/co.png
+ Name : Gabon, 
+Capital : Libreville, flag : https://flagcdn.com/w0/ga.png
+ Name : Saudi Arabia, 
+Capital : Riyadh, flag : https://flagcdn.com/w0/sa.png
+ Name : South Georgia, 
+Capital : King Edward Point, flag : https://flagcdn.com/w0/gs.png
+ Name : Ethiopia, 
+Capital : Addis Ababa, flag : https://flagcdn.com/w0/et.png
+ Name : Caribbean Netherlands, 
+Capital : Kralendijk, flag : https://flagcdn.com/w0/bq.png
+ Name : Monaco, 
+Capital : Monaco, flag : https://flagcdn.com/w0/mc.png
+ Name : North Korea, 
+Capital : Pyongyang, flag : https://flagcdn.com/w0/kp.png
+ Name : Italy, 
+Capital : Rome, flag : https://flagcdn.com/w0/it.png
+ Name : Namibia, 
+Capital : Windhoek, flag : https://flagcdn.com/w0/na.png
+ Name : Mongolia, 
+Capital : Ulan Bator, flag : https://flagcdn.com/w0/mn.png
+ Name : Solomon Islands, 
+Capital : Honiara, flag : https://flagcdn.com/w0/sb.png
+ Name : Yemen, 
+Capital : Sana'a, flag : https://flagcdn.com/w0/ye.png
+ Name : Romania, 
+Capital : Bucharest, flag : https://flagcdn.com/w0/ro.png
+ Name : Svalbard and Jan Mayen, 
+Capital : Longyearbyen, flag : https://flagcdn.com/w0/sj.png
+ Name : France, 
+Capital : Paris, flag : https://flagcdn.com/w0/fr.png
